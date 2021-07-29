@@ -1,0 +1,198 @@
+/* banner section css */
+
+.banner-bg{
+    background-color:#264653;
+}
+
+.banner-content-p1{
+    font-weight: 300;
+    font-size: 14px;
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+.banner-content-h1{
+    font-weight: 600;
+    font-size: 48px;
+    color: #FFFFFF;
+    padding-bottom: 18px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.banner-content-p2{
+    font-weight: 300;
+    font-size: 16px;
+    font-style: normal;
+    color: #E0E0E0;
+    padding-bottom: 21px;
+}
+
+.banner-content-btn{
+    width: 168px;
+    height: 44px;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #E76F51;
+    color: white;
+    font-weight: 500;
+}
+
+.banner-content-img{
+    /* width: 552px;
+    height: 447px; */
+    width: 100%;
+}
+
+
+/* Featured Bike Section css */
+
+.feature-bike-h1{
+    font-weight: 600;
+    font-size: 48px;
+    color: #000000;
+ 
+    font-family: 'Poppins', sans-serif;
+}
+
+.feature-bike-p{
+    font-weight: 600;
+    font-size: 12px;
+    color:#E76F51;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.line{
+    display: block;
+    margin: auto;
+    align-items: center;
+    height: 0px;
+    width: 58px;
+    border: 1px solid #E76F51;
+}
+
+
+.honda-gray{
+    filter: grayscale(100%);
+}
+
+
+/* Happy Client section css */
+
+.client-h1{
+    font-weight: 600;
+    font-size: 48px;
+    color: #0A0826;
+ 
+    font-family: 'Poppins', sans-serif;
+}
+.client-h2{
+    font-weight: 400;
+    font-size: 48px;
+    color: #E76F51;
+ 
+    font-family: 'Poppins', sans-serif;
+}
+
+.client-images{
+    width: 149px;
+    height: 149px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 1px ;
+    box-sizing: border-box;
+}
+
+
+.client-article{
+    font-weight: 400;
+    font-size: 16px;
+    color: #6C6C6C;
+    padding-bottom: 5px;
+    letter-spacing: 0.2px;
+    font-family: 'Poppins', sans-serif;
+
+
+}
+
+.fa-star{
+    margin-left: 10px;
+    color: #E77c40;
+
+}
+
+.client-name{
+    font-weight: 600;
+    font-size: 14px;
+    color: #23A6F0;
+    padding-bottom: 5px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.client-job{
+    font-weight: 600;
+    font-size: 14px;
+    color: #252B42;
+    margin-bottom: 30px;
+    font-family: 'Poppins', sans-serif
+
+}
+
+
+/* FAQ Section CSS  */
+
+.faq-h1{
+    font-weight: 600;
+    font-size: 48px;
+    color: #0D0925;
+ 
+    font-family: 'Poppins', sans-serif;
+}
+
+.faq-h2{
+    font-weight: 600;
+    font-size: 48px;
+    color: #E76F51;
+ 
+    font-family: 'Poppins', sans-serif;
+
+}
+
+/* Extra Secttion  */
+
+/* tips section css  */
+
+
+/* Choose section Css  */
+.choose-set img{
+    width: 45px;
+    height: 45px;
+    
+}
+
+.choose-space{
+    padding-bottom: 80px;
+}
+
+
+/* Contact Section CSS  */
+
+.contact-h1{
+    font-weight: 400;
+    font-size: 48px;
+    color: red;
+ 
+    font-family: 'Poppins', sans-serif;
+}
+
+.contact-h2{
+    font-weight: 600;
+    font-size: 32px;
+    color: green;
+    font-style: oblique;
+ 
+    font-family: 'Poppins', sans-serif;
+
+}
